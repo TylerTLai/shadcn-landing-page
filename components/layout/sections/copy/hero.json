@@ -1,0 +1,22 @@
+{
+  "badge": {
+    "new": "New",
+    "text": "Design is out now!"
+  },
+  "title": {
+    "prefix": "Experience the",
+    "highlight": "Shadcn",
+    "suffix": "landing page"
+  },
+  "description": "We're more than just a tool, we're a community of passionate creators. Get access to exclusive resources, tutorials, and support.",
+  "buttons": {
+    "primary": {
+      "text": "Get Started",
+      "link": "#"
+    },
+    "secondary": {
+      "text": "Github repository",
+      "link": "https://github.com/nobruf/shadcn-landing-page.git"
+    }
+  }
+}
